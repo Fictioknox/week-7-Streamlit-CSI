@@ -3,6 +3,11 @@
 This project is a **Streamlit web application** that deploys a trained **Logistic Regression machine learning model** to classify Iris flowers based on user input. The app allows users to input measurements of a flower's features and receive real-time predictions along with visual explanations of model performance.
 
 ---
+## 🚀 Try It Live
+
+👉 [Click here to launch the app](https://week-7-app-csi-wyrkhvdmdgfep6ygtq2i8k.streamlit.app/)
+
+---
 
 ## 🎯 Project Objectives
 
@@ -22,11 +27,6 @@ This project is a **Streamlit web application** that deploys a trained **Logisti
 
 ---
 
-## 🚀 Try It Live
-
-👉 [Click here to launch the app](https://week-7-app-csi-wyrkhvdmdgfep6ygtq2i8k.streamlit.app/)
-
----
 
 ## 🧪 How the Model Works
 
